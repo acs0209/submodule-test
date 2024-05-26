@@ -1,0 +1,3 @@
+[submodule "src/backend/chat/src/git_sub_module_test_private"]
+	path = src/backend/chat/src/git_sub_module_test_private
+	url = https://github.com/acs0209/git_sub_module_test_private.git
